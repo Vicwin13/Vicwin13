@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vicwin13 but you can just call me Winner
+- 👋 Hi, I’m @Vicwin13 or you could just call me Winner
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning all that has to do with frontend development but for now its Tailwind, Js and ReactJs
 - 💞️ I’m looking to collaborate on frontend related projects 
