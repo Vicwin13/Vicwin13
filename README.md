@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vicwin13 or you could just call me Winner
+- 👋 Hi, I’m Victor, or you could call me Winner
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning all that has to do with frontend development but for now its Tailwind, Js and ReactJs
-- 💞️ I’m looking to collaborate on frontend related projects 
-- 📫 How to reach me vnwimo13@gmail.com || +2348105251154 (website would be up soon)
+- 🌱 I’m currently into frontend development,
+- 💞️ I’m looking to collaborate on projects that provide solutions.
+- 📫 My portfolio: [here](https://victor-nwimo.netlify.app/)
 
 <!---
 Vicwin13/Vicwin13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
